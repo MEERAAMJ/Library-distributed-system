@@ -1,9 +1,1 @@
-- 👋 Hi, I’m Meera
-- 👀 I’m an aspiring software developer.
-- 🌱 I’m currently learning React.
-- 📫 I can be reached on meerajose2021@outlook.com
-
-<!---
-MEERAAMJ/MEERAAMJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A distributed data storage system using a remote object paradigm  that will allow one to store and access information relating to copies of books, authors of books and users who loan copies of books.
