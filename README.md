@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @MEERAAMJ
-- 👀 I’m interested in learning new programming skills.
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on any project that suits for me
+- 👋 Hi, I’m Meera
+- 👀 I’m an aspiring software developer.
+- 🌱 I’m currently learning React.
 - 📫 I can be reached on meerajose2021@outlook.com
 
 <!---
